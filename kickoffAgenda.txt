@@ -3,4 +3,4 @@ kickoff meeting agenda
 What is everyone's experience with building IT system/arduino/raspberry PI
 each person's ideas
 github - set up repo - who?
-Workout everyone's strengths & weaknesses 
+Workout everyone's strengths & weaknesses
